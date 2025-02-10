@@ -49,7 +49,9 @@ else:
 #END OF LAB8PART2 CODE
 
 
-#My Ending Signature
+#My Ending Signature 
+#The original Batman logo program that I use in multiple project endings was created by Carl Mascarenhas (aka carlmas02), 
+# Their GitHub page can be located at https://gist.github.com/carlmas02/a0bb1614b61374cab3487d6dce8f9f7b
 import turtle
 
 # Function to draw the Batman logo
@@ -170,3 +172,9 @@ def draw_batman_logo():
 
 # Call the function to draw the Batman logo and heart
 draw_batman_logo()
+
+
+
+#Works Cited: 
+#The original Batman logo program that I use in multiple project endings was created by Carl Mascarenhas (aka carlmas02), 
+# Their GitHub page can be located at https://gist.github.com/carlmas02/a0bb1614b61374cab3487d6dce8f9f7b
