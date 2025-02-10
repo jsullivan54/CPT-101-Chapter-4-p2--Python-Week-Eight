@@ -87,3 +87,10 @@ bat.end_fill()
 
 #end the turtle method
 turtle.done()
+
+
+
+
+#Works Cited: 
+#The original Batman logo program that I use in multiple project endings was created by Carl Mascarenhas (aka carlmas02), 
+# Their GitHub page can be located at https://gist.github.com/carlmas02/a0bb1614b61374cab3487d6dce8f9f7b
